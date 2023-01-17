@@ -10,6 +10,9 @@ function Header() {
 			<Link href="/todos" className="px-2 py-1 bg-white text-blue-500 rounded-lg">
 				Go to Todos
 			</Link>
+			<Link href="/search" className="px-2 py-1 bg-white text-blue-500 rounded-lg">
+				Go to Search
+			</Link>
 		</header>
 	);
 }
